@@ -1,0 +1,8 @@
+server:
+  port: 80
+spring:
+  datasource:
+    url: jdbc:postgresql://130.162.157.215:5432/db_shock?charsetEncoding=UTF-8&serverTimezone=UTC
+    username: shock
+    password: Kth973897G@#$
+    driver-class-name: org.postgresql.Driver
