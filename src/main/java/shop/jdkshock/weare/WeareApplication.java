@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class WeareApplication {
 
     public static void main(String[] args) {
+        System.out.println("merge 테스트");
         SpringApplication.run(WeareApplication.class, args);
     }
 
