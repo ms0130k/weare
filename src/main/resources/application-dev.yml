@@ -1,5 +1,5 @@
 server:
-  port: 9090
+  port: 7090
 spring:
   datasource:
     url: jdbc:postgresql://130.162.157.215:5432/db_shock_test?charsetEncoding=UTF-8&serverTimezone=UTC
